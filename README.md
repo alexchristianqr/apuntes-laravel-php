@@ -2,7 +2,7 @@
 
 Todo sobre los comandos en Laravel PHP: BASICO, INTERMEDIO y AVANZADO
 
-# BASICO
+## BASICO
 
 ```bash
 composer create-project --prefer-dist laravel/laravel "nombre_del_proyecto" # Crea un proyecto nuevo
@@ -35,10 +35,10 @@ php artisan key:generate # Genera una clave de cifrado para la aplicación
 php artisan config:cache # Limpia la caché de configuración
 ```
 
-# INTERMEDIO
+## INTERMEDIO
 
 [Comandos Laravel PHP Intermedio](https://github.com/alexchristianqr/apuntes-laravel-php/blob/main/README-intermedio.md)
 
-# AVANZADO
+## AVANZADO
 
 [Comandos Laravel PHP Avanzado](https://github.com/alexchristianqr/apuntes-laravel-php/blob/main/README-avanzado.md)

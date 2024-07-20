@@ -2,15 +2,15 @@
 
 Todo sobre los comandos en Laravel PHP: BASICO, INTERMEDIO y AVANZADO
 
-# BASICO
+## BASICO
 
 [Comandos Laravel PHP Básico](https://github.com/alexchristianqr/apuntes-laravel-php/blob/main/README.md)
 
-# INTERMEDIO
+## INTERMEDIO
 
 [Comandos Laravel PHP Intermedio](https://github.com/alexchristianqr/apuntes-laravel-php/blob/main/README-intermedio.md)
 
-# AVANZADO
+## AVANZADO
 
 ```bash
 php artisan test # Ejecuta las pruebas unitarias y funcionales de Laravel.

@@ -2,11 +2,11 @@
 
 Todo sobre los comandos en Laravel PHP: BASICO, INTERMEDIO y AVANZADO
 
-# BASICO
+## BASICO
 
 [Comandos Laravel PHP Básico](https://github.com/alexchristianqr/apuntes-laravel-php/blob/main/README.md)
 
-# INTERMEDIO
+## INTERMEDIO
 
 ```bash
 php artisan make:controller NombreDelControlador --resource # Crea un controlador con métodos RESTful predeterminados.
@@ -43,7 +43,7 @@ php artisan queue:restart # Reinicia todos los workers de la cola.
 php artisan route:list # Muestra todas las rutas registradas en la aplicación.
 ```
 
-# AVANZADO
+## AVANZADO
 
 [Comandos Laravel PHP Avanzado](https://github.com/alexchristianqr/apuntes-laravel-php/blob/main/README-avanzado.md)
 
