@@ -33,6 +33,7 @@ php artisan key:generate # Genera una clave de cifrado para la aplicación
 
 ```bash
 php artisan config:cache # Limpia la caché de configuración
+tail -n 10 /storage/logs/laravel.log # Leer los ultimos 10 registros del log
 ```
 
 ## INTERMEDIO
